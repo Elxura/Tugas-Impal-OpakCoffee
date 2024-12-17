@@ -2,7 +2,7 @@
 $servername = "localhost"; 
 $username = "root";        
 $password = "";           
-$database = "tubes_kopi"; 
+$database = "opak_kopi"; 
 
 $conn = mysqli_connect($servername, $username, $password, $database);
 
